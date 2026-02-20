@@ -1,0 +1,28 @@
+@Metadata.layer: #CORE     
+annotate view ZV_I_TRAVEL_R_1 with
+{
+  @UI           : {
+  lineItem      : [{position: 10, importance: #HIGH}]
+  }
+  TravelID;
+  @UI           : {
+        lineItem      : [{position: 15, importance: #HIGH}]
+        }
+  AgencyID;
+  @UI           : {
+        lineItem      : [{position: 20, importance: #HIGH}]
+        }
+  CustomerID;
+  @UI           : {
+        lineItem      : [{position: 30, importance: #HIGH}]
+        }
+  BeginDate;
+  @UI           : {
+        lineItem      : [{position: 40, importance: #HIGH}]
+        }
+  EndDate;
+  @UI           : {
+        lineItem      : [{position: 50, importance: #HIGH}]
+        }
+  TotalPrice;
+}

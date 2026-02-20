@@ -1,0 +1,11 @@
+@EndUserText: {
+  label: 'Service Definition for ZC_VIN_RAP100_2801'
+}
+@ObjectModel: {
+  leadingEntity: {
+    name: 'ZC_VIN_RAP100_2801'
+  }
+}
+define service ZUI_VIN_RAP100_2801_O4 provider contracts odata_v4_ui {
+  expose ZC_VIN_RAP100_2801;
+}

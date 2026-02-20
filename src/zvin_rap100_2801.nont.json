@@ -1,0 +1,11 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "SAP Object Node Type ZVIN_RAP100_2801",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "name": "ZVIN_RAP100_2801",
+  "sapObjectType": "ZVIN_RAP100_2801",
+  "rootNode": true
+}

@@ -1,0 +1,4 @@
+@EndUserText.label: 'Travel Service Definition'
+define service ZV_I_TRAVEL_2 {
+  expose ZV_I_TRAVEL_R_1 as Travel;
+}
